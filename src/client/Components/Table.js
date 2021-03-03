@@ -1,4 +1,4 @@
-import React, { memo } from "react";
+import React  from "react";
 
 const Table = ({ colDef, data }) => {
   if (data.length === 0) {
