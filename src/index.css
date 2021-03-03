@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.alert {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.alert.green {
+  background-color: green;
+}
+.alert.red {
+  background-color: red;
+}
